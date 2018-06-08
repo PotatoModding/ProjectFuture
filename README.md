@@ -1,1 +1,2 @@
-# ProjectFuture
+# ProjectFuture by 
+Velldog & Potato
